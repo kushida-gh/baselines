@@ -1,0 +1,14 @@
+# Domains to which OS connects to via plaintext HTTP 
+
+11.au.download.windowsupdate.com
+9.au.download.windowsupdate.com
+au.download.windowsupdate.com
+ctldl.windowsupdate.com
+dl.delivery.mp.microsoft.com
+dmd.metaservices.microsoft.com
+download.windowsupdate.com
+emdl.ws.microsoft.com
+go.microsoft.com
+ocsp.digicert.com
+tlu.dl.delivery.mp.microsoft.com
+www.microsoft.com
