@@ -1,0 +1,9 @@
+# Domains to which OS connects to via plaintext HTTP 
+
+au.download.windowsupdate.com
+ctldl.windowsupdate.com
+dmd.metaservices.microsoft.com
+download.windowsupdate.com
+go.microsoft.com
+ocsp.digicert.com
+www.msftconnecttest.com
