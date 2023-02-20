@@ -41,16 +41,20 @@ ctldl.windowsupdate.com
 download.windowsupdate.com
 
 
+# windows.com
+
+client.wns.windows.com
+time.windows.com
+
+
 # Other
 
 clientconfig.passport.net
-client.wns.windows.com
 dns.msftncsi.com
 login.live.com
 msftspeechmodelsprod.azureedge.net
 ocsp.digicert.com
 onecs-live.azureedge.net
-time.windows.com
 www.bing.com
 www.msftconnecttest.com
 
