@@ -19,13 +19,11 @@ wdcp.microsoft.com
 win10.ipv6.microsoft.com
 
 
-
 # windowsupdate.com
 
 au.download.windowsupdate.com
 ctldl.windowsupdate.com
 download.windowsupdate.com
-
 
 
 # windows.com
@@ -34,14 +32,12 @@ client.wns.windows.com
 time.windows.com
 
 
-
 # Other
 clientconfig.passport.net
 dns.msftncsi.com
 login.live.com
 ocsp.digicert.com
 www.msftconnecttest.com
-
 
 
 # Note: may not include all Microsoft domain(s) related to product activation.
