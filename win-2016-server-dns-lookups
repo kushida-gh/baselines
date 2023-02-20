@@ -1,0 +1,47 @@
+# FQDNs to whitelist for default Windows Server 2016 installs
+# This list may not be exhaustive but provides a starting point; not all may have a legitimate use-case
+# Stuff the OS looks up while idling or if an admin logs into the desktop and then walks away without opening a browser
+
+
+# microsoft.com
+
+activation-v2.sls.microsoft.com
+dmd.metaservices.microsoft.com
+fe2.update.microsoft.com
+go.microsoft.com
+licensing.mp.microsoft.com
+settings-win.data.microsoft.com
+sls.update.microsoft.com
+v10.vortex-win.data.microsoft.com
+validation-v2.sls.microsoft.com
+watson.telemetry.microsoft.com
+wdcp.microsoft.com
+win10.ipv6.microsoft.com
+
+
+
+# windowsupdate.com
+
+au.download.windowsupdate.com
+ctldl.windowsupdate.com
+download.windowsupdate.com
+
+
+
+# windows.com
+
+client.wns.windows.com
+time.windows.com
+
+
+
+# Other
+clientconfig.passport.net
+dns.msftncsi.com
+login.live.com
+ocsp.digicert.com
+www.msftconnecttest.com
+
+
+
+# Note: may not include all Microsoft domain(s) related to product activation.
