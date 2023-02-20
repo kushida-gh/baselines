@@ -1,0 +1,15 @@
+# SNI values in TLS Client Hello when OS connects to public hosts
+
+activation-v2.sls.microsoft.com
+clientconfig.passport.net
+client.wns.windows.com
+fe2.update.microsoft.com
+go.microsoft.com
+licensing.mp.microsoft.com
+login.live.com
+settings-win.data.microsoft.com
+sls.update.microsoft.com
+v10.vortex-win.data.microsoft.com
+validation-v2.sls.microsoft.com
+watson.telemetry.microsoft.com
+wdcp.microsoft.com
