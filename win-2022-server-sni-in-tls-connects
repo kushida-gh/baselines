@@ -1,0 +1,27 @@
+# SNI values in TLS Client Hello when OS connects to public hosts
+
+activation-v2.sls.microsoft.com
+checkappexec.microsoft.com
+clientconfig.passport.net
+config.edge.skype.com
+cp601.prod.do.dsp.mp.microsoft.com
+cxcs.microsoft.net
+fe2cr.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+geo.prod.do.dsp.mp.microsoft.com
+geover.prod.do.dsp.mp.microsoft.com
+go.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
+licensing.mp.microsoft.com
+login.live.com
+msedge.api.cdp.microsoft.com
+settings-win.data.microsoft.com
+slscr.update.microsoft.com
+smartscreen-prod.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+umwatson.events.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+validation-v2.sls.microsoft.com
+wdcp.microsoft.com
+www.bing.com
