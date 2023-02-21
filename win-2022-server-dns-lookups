@@ -1,0 +1,70 @@
+# FQDNs to whitelist for default Windows Server 2022 installs
+# This list may not be exhaustive but provides a starting point; not all may have a legitimate use-case (www.bing.com, for example)
+# Stuff the OS looks up while idling or if an admin logs into the desktop and then walks away without opening a browser
+
+
+# microsoft.com
+
+4.tlu.dl.delivery.mp.microsoft.com
+9.au.download.windowsupdate.com
+activation-v2.sls.microsoft.com
+checkappexec.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+dmd.metaservices.microsoft.com
+emdl.ws.microsoft.com
+fe2cr.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+geo.prod.do.dsp.mp.microsoft.com
+geover.prod.do.dsp.mp.microsoft.com
+go.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
+licensing.mp.microsoft.com
+msedge.api.cdp.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
+msedge.f.dl.delivery.mp.microsoft.com
+settings-win.data.microsoft.com
+slscr.update.microsoft.com
+smartscreen-prod.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+umwatson.events.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+validation-v2.sls.microsoft.com
+wdcp.microsoft.com
+
+
+# microsoft.net
+
+cxcs.microsoft.net
+
+
+# windowsupdate.com
+
+11.au.download.windowsupdate.com
+2.au.download.windowsupdate.com
+4.au.download.windowsupdate.com
+au.download.windowsupdate.com
+ctldl.windowsupdate.com
+download.windowsupdate.com
+
+
+# windows.com
+
+time.windows.com
+
+
+# Other
+
+clientconfig.passport.net
+config.edge.skype.com
+dns.msftncsi.com
+login.live.com
+ocsp.digicert.com
+www.bing.com
+www.msftconnecttest.com
+
+
+
+# Note: may not include all Microsoft domain(s) related to product activation.
